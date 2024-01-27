@@ -181,6 +181,23 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	outline: none;
 	outline-offset: none;
 }
+
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+
+.logo-img {
+  max-width: 40px; /* Adjust the max-width according to your design */
+  margin-right: 10px; /* Adjust the margin as needed */
+}
+
+.logo-text {
+  line-height: 1; /* Adjust the line-height as needed */
+}
+
+
+
 /* Header Section */
 
 .intro {
