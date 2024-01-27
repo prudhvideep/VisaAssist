@@ -199,11 +199,14 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 
 
 /* Header Section */
+.carousal{
+	margin-top: auto;
+}
 
 .intro {
 	display: table;
 	width: 100%;
-	padding: 0;
+	padding: 1px;
 	background: url(../img/Friends_3.jpg) center center no-repeat;
 	background-color: #e5e5e5;
 	-webkit-background-size: cover;
