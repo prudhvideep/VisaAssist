@@ -40,7 +40,15 @@ function main() {
         });
 		
 }());
-
+  
+   //Carousal
+   $(document).ready(function () {
+    // Activate the carousel
+    $('#carousel').carousel({
+      interval: 5000, // Set the interval to 5 seconds
+      pause: 'hover' // Pause when hovering over the carousel
+    });
+  });
 
 }
 main();

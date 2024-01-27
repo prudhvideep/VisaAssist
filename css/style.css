@@ -182,39 +182,161 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	outline-offset: none;
 }
 /* Header Section */
+
 .intro {
 	display: table;
 	width: 100%;
 	padding: 0;
-	background: url(../img/intro-bg.jpg) center center no-repeat;
+	background: url(../img/Friends_3.jpg) center center no-repeat;
 	background-color: #e5e5e5;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
 	-o-background-size: cover;
 }
+.intro1 {
+	display: table;
+	width: 100%;
+	padding: 0;
+	background: url(../img/Manhatten_2.jpg) center center no-repeat;
+	background-color: #e5e5e5;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+}
+.intro2 {
+	display: table;
+	width: 100%;
+	padding: 0;
+	background: url(../img/Friends_5.jpg) center center no-repeat;
+	background-color: #e5e5e5;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+}
+.intro3 {
+	display: table;
+	width: 100%;
+	padding: 0;
+	background: url(../img/Student3.jpg) center center no-repeat;
+	background-color: #e5e5e5;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+}
+
 .intro .overlay {
 	background: rgba(0,0,0,0.2);
 }
+
+.intro1 .overlay {
+	background: rgba(0,0,0,0.2);
+}
+
+.intro2 .overlay {
+	background: rgba(0,0,0,0.2);
+}
+
+.intro3 .overlay {
+	background: rgba(0,0,0,0.2);
+}
+
 .intro h1 {
 	font-family: 'Raleway', sans-serif;
 	color: #fff;
-	font-size: 82px;
+	font-size: 55px;
 	font-weight: 700;
 	text-transform: uppercase;
 	margin-top: 0;
 	margin-bottom: 10px;
 }
+
+.intro1 h1 {
+	font-family: 'Raleway', sans-serif;
+	color: #fff;
+	font-size: 55px;
+	font-weight: 700;
+	text-transform: uppercase;
+	margin-top: 0;
+	margin-bottom: 10px;
+}
+
+.intro2 h1 {
+	font-family: 'Raleway', sans-serif;
+	color: #fff;
+	font-size: 55px;
+	font-weight: 700;
+	text-transform: uppercase;
+	margin-top: 0;
+	margin-bottom: 10px;
+}
+
+.intro3 h1 {
+	font-family: 'Raleway', sans-serif;
+	color: #ffffff;
+	font-size: 55px;
+	font-weight: 700;
+	text-transform: uppercase;
+	margin-top: 0;
+	margin-bottom: 10px;
+}
+
 .intro h1 span {
 	font-weight: 800;
 	color: #5ca9fb;
 }
+
+.intro1 h1 span {
+	font-weight: 800;
+	color: #5ca9fb;
+}
+
+.intro2 h1 span {
+	font-weight: 800;
+	color: #5ca9fb;
+}
+
+.intro3 h1 span {
+	font-weight: 800;
+	color: #5ca9fb;
+}
+
 .intro p {
 	color: #fff;
-	font-size: 22px;
+	font-size: 20px;
 	font-weight: 300;
 	line-height: 30px;
 	margin: 0 auto;
+	margin-bottom: 60px;
+}
+
+.intro1 p {
+	color: #fff;
+	font-size: 20px;
+	font-weight: 300;
+	line-height: 30px;
+	margin: 0 auto;
+	margin-bottom: 60px;
+}
+
+.intro2 p {
+	color: #fff;
+	font-size: 20px;
+	font-weight: 300;
+	line-height: 30px;
+	margin: 0 auto;
+	margin-bottom: 60px;
+}
+
+.intro3 p {
+	color: #fff;
+	font-size: 20px;
+	font-weight: 300;
+	line-height: 30px;
+	margin: 10 auto;
 	margin-bottom: 60px;
 }
 header .intro-text {
