@@ -328,6 +328,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	line-height: 30px;
 	margin: 0 auto;
 	margin-bottom: 60px;
+	font-weight: bold;
 }
 
 .intro1 p {
@@ -337,6 +338,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	line-height: 30px;
 	margin: 0 auto;
 	margin-bottom: 60px;
+	font-weight: bold;
 }
 
 .intro2 p {
@@ -346,6 +348,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	line-height: 30px;
 	margin: 0 auto;
 	margin-bottom: 60px;
+	font-weight: bold;
 }
 
 .intro3 p {
@@ -355,6 +358,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	line-height: 30px;
 	margin: 10 auto;
 	margin-bottom: 60px;
+	font-weight: bold;
 }
 header .intro-text {
 	padding-top: 350px;
