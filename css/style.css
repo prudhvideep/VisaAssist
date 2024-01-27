@@ -199,8 +199,8 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 
 
 /* Header Section */
-.carousal{
-	margin-top: auto;
+#carousel{
+	margin-top: -80px;
 }
 
 .intro {
