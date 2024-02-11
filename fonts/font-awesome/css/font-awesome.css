@@ -265,6 +265,9 @@
 .fa-refresh:before {
   content: "\f021";
 }
+.fa-address-card:before{
+  content:  "\f040";
+}
 .fa-list-alt:before {
   content: "\f022";
 }
