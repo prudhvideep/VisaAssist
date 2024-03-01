@@ -588,11 +588,14 @@ header.intro .downward-arrow {
 	margin: 5px 0;
 }
 #team .team-img {
-	width: 240px;
+	width: 100%; /* Adjusted width to ensure responsiveness */
+	height: 540px; /* Added to set a specific height for the images */
+	object-fit: cover; /* Added to maintain aspect ratio */
 }
 #team .thumbnail {
 	background: transparent;
 	border: 0;
+	height: 100%; /* Added to ensure both thumbnails have the same height */
 }
 #team .thumbnail .caption {
 	padding: 10px 0 0 0;
